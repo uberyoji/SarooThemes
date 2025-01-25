@@ -1,6 +1,7 @@
 # Saroo Themes Collection
 
-## Installation copy the files (bgsound_r.pcm, mainmenu_bg.gif) of your choosing to the SAROO folder on your SD card.
+## Installation
+Installation copy the files (bgsound_r.pcm, mainmenu_bg.gif) of your choosing to the SAROO folder on your SD card.
 
 ## Collection
 
